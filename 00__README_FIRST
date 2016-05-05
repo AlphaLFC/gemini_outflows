@@ -1,0 +1,25 @@
+0.SCRIPTS NEED TO BE COMPILED:
+mkoutflow.pro
+ident_outflow_test.pro
+findpeakpos.pro
+
+1.FINDOUTFLOWS:
+Lpeakv.pro
+Uwingv.pro
+Uwingvpeak.pro
+wingdiagnosis.pro
+
+2.MANU_CHECKS
+bipolarcmp.pro
+manu_check.pro
+draw_outflows.pro
+
+3.CALCULATIONS OF PHYSICAL PARAMETERS
+cal_area.pro
+cal_phy.pro
+out_figue.pro
+out_rank.pro
+
+4.STATISTICS
+out_hist.pro
+
